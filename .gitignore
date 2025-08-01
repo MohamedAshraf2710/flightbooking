@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+# SQLite database
+flights.db
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode settings (if used)
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+myenv/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
