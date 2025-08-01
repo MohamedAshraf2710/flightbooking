@@ -3,4 +3,4 @@ tkintertable #for creating tables in tkinter
 tkcalendar #for date selection
 requests #for making HTTP requests  
 # Add any other dependencies your app requires
-# Ensure that the versions are compatible with your Python version  
+# Ensure that the versions are compatible with your Python version 
